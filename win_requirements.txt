@@ -1,0 +1,8 @@
+bitalino==1.2.1
+numpy==1.22.1
+PyBluez
+pyobjc==8.2
+pyserial==3.5
+pandas
+matplotlib
+streamlit
